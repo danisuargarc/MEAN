@@ -1,10 +1,12 @@
 # MeanCourse
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.3.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.3, [Express.js] version 4.17.1, and [MongoDB].
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Run `ng serve` for a dev Angular server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+
+Run `npm run start:server` for a dev Express server. Navigate to `http://localhost:3000/*`. The app will automatically reload if you change any of the source files.
 
 ## Code scaffolding
 

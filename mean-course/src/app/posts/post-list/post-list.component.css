@@ -1,0 +1,25 @@
+:host {
+  display: block;
+  margin-top: 16px;
+}
+
+.info-text {
+  text-align: center;
+}
+
+mat-spinner {
+  margin: auto;
+}
+
+.hero {
+  width: 100%;
+}
+
+.hero img {
+  width: 100%;
+  box-shadow: 1px 1px 5px black;
+}
+
+mat-paginator {
+  margin-top: 16px;
+}
